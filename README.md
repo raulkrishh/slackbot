@@ -13,4 +13,4 @@ Example of workflow:
  You can call the following function in your terminal and it will send a notificationt to your slack channel when it runs.
  It will also attach the ouput and screenshot (this is tricky it takes screeshot of your main screen if you have multiple monitors) of the run in slack   channel
  
- notify_slack_newest ruby begin_sleep() 
+ `notify_slack_newest ruby begin_sleep()`
